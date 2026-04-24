@@ -1,0 +1,10 @@
+{
+  "input_csv": "data/cat3_query_sql_llm(2)_with_key_matches.csv",
+  "summary_csv": "data/cat3_query_sql_llm(2)_expected_keys_summary_rettable.csv",
+  "db_path": "data/database.db",
+  "output_dir": "data/table_question_ground_truths_full",
+  "included_question_count": 367,
+  "exported_count": 367,
+  "skipped_count": 0,
+  "manifest_csv": "data/table_question_ground_truths_full/manifest.csv"
+}

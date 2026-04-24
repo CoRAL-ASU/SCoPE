@@ -1,0 +1,19 @@
+# Optional Python dependencies for the standalone methodv2 bundle.
+#
+# The naive / planner-executor runners and the basic evaluation scripts use
+# only the Python standard library plus a reachable OpenAI-compatible API.
+# Install the packages below only if you need the corresponding extras.
+
+# Embedding cosine baselines
+numpy
+torch
+transformers
+
+# Optional evaluation enrichments
+sqlglot
+rouge-score
+sacrebleu
+bert-score
+
+# Hidden-column local generation runner
+vllm
