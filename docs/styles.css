@@ -86,6 +86,9 @@ h3 {
 table {
   width: 100%;
   border-collapse: collapse;
+}
+
+.table-wrap table {
   min-width: 680px;
 }
 
