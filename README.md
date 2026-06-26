@@ -1,6 +1,6 @@
 
 
-# SCOPE: Planning for Hybrid Querying over Clinical Trial Data**
+# SCOPE: Planning for Hybrid Querying over Clinical Trial Data
 
 SCOPE is a planner-executor framework for **hybrid reasoning over clinical trial tables**. It targets questions where the answer is not directly stored as a ready-made column, but must be inferred from visible table evidence through extraction, normalization, classification, boolean inference, or lightweight clinical reasoning.
 
