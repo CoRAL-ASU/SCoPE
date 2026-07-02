@@ -7,7 +7,7 @@ SCOPE is a planner-executor framework for **hybrid reasoning over clinical trial
 
 ---
 
-## Overview
+## Overview.
 
 Clinical trial review often requires analysts to answer questions such as:
 
